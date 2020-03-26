@@ -1,2 +1,3 @@
-# ZikaV-Dyn
+# ZikaVirus
+
 Zika Virus epidemic dynamics
