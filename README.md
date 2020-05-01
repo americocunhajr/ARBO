@@ -8,7 +8,7 @@ XXX.m -
 
 ## Authors:
 
-Eber Dantas (UFRJ) - https://www.researchgate.net/profile/Eber_Dantas
+Eber Dantas (UERJ) - https://www.researchgate.net/profile/Eber_Dantas
 
 Michel Tosin (UERJ) - https://www.researchgate.net/profile/Michel_Tosin
 
