@@ -1,3 +1,3 @@
-# Zika Virus Dynamics Inverse Problem
+# Zika Virus Inverse Problem
 
 Zika Virus epidemic dynamics
