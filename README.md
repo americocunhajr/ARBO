@@ -2,9 +2,12 @@
 
 **ZikaVD** is an easy to run Matlab code to simulate the nonlinear dynamics of the Zika virus. The implementation follows an educational style, to make its use very intuitive. This package includes the following modules:
 
-XXX.m - 
-
-XXX.m - 
+main_SEIR_SEI.m - 
+rhs_SEIR_SEI.m - 
+TRR_main_SEIR_SEI.m - 
+rhs_SEIR_SEI.m - 
+TRR_rhs_SEIR_SEI.m - 
+TRR_FunctionOutput_SEIR_SEI.m - 
 
 ## Authors:
 - Eber Dantas
