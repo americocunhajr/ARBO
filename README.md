@@ -7,9 +7,9 @@ XXX.m -
 XXX.m - 
 
 ## Authors:
-- Eber Dantas (UERJ) - https://www.researchgate.net/profile/Eber_Dantas
-- Michel Tosin (UERJ) - https://www.researchgate.net/profile/Michel_Tosin
-- Americo Cunha (UERJ) - www.americocunha.org
+- Eber Dantas
+- Michel Tosin
+- Americo Cunha
 
 ## Citing ZikaVD:
 
