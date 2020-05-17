@@ -31,4 +31,4 @@ https://doi.org/10.1016/j.amc.2018.06.024
 
 ## License
 
-**ZikaVD** is released under the MIT license. See the LICENSE and NOTICE files for details. All new contributions must be made under the MIT license.
+**ZikaVD** is released under the MIT license. See the LICENSE file for details. All new contributions must be made under the MIT license.
