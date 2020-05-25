@@ -6,7 +6,7 @@
 
 - main_SEIR_SEI.m - Defines parameters and IC for the forward problem; solves the IVP with ode45; plots the time series.
 - rhs_SEIR_SEI.m - System of diferential equations for the IVP.
-- TRR_main_SEIR_SEI.m - Sets up scenarios for the inverse problem and options for the Trust-Region-Reflection solver; plots time series.
+- TRR_main_SEIR_SEI.m - Sets up scenarios for the inverse problem and options for the TRR solver; plots time series.
 - TRR_rhs_SEIR_SEI.m - Adjusts the system of ODE according to the scenario chosen in the main file.
 - TRR_FunctionOutput_SEIR_SEI.m - Sets up the objective function used in the main file for the inverse problem.
 
