@@ -247,7 +247,7 @@ F = @(variable_TRRparam,day)TRR_FunctionOutput_SEIR_SEI(day,case_name,variable_T
 
     %bH aH yH bV aV dV EH0 IH0 EV0 IV0 (case5)
     
-    options = optimoptions('lsqcurvefit','Display','iter','Algorithm','trust-region-reflective','MaxIterations',100000,'MaxFunctionEvaluations',500000,'FunctionTolerance',1e-007,'StepTolerance',5e-007,'FiniteDifferenceType','central');
+    options = optimoptions('lsqcurvefit','Display','iter','Algorithm','trust-region-reflective','MaxIterations',100000,'MaxFunctionEvaluations',500000,'FunctionTolerance',1e-005,'StepTolerance',1e-005,'FiniteDifferenceType','central');
             % Display: show process/result. 'iter' whill show the steps.
             % Algorithm: choose algorithm. LM is default. LM can't use lb and up
             % MaxIterations: maximum number of iterations. Default is 400
@@ -256,16 +256,16 @@ F = @(variable_TRRparam,day)TRR_FunctionOutput_SEIR_SEI(day,case_name,variable_T
             
     % Comparing NewCases
     result_TRRparam = lsqcurvefit(F,inital_guess_TRRparam,day,NewCasesData,lb,up,options);
-    disp(['bH = ',num2str(result_TRRparam(1))])
-    disp(['bV = ',num2str(result_TRRparam(4))])
-    disp(['1/aH = ',num2str(1/result_TRRparam(2))])
-    disp(['1/yH = ',num2str(1/result_TRRparam(3))])
-    disp(['1/aV = ',num2str(1/result_TRRparam(5))])
-    disp(['1/dV = ',num2str(1/result_TRRparam(6))])
-    disp(['EH0 = ',num2str(result_TRRparam(7))])
-    disp(['IH0 = ',num2str(result_TRRparam(8))])
-    disp(['EV0 = ',num2str(result_TRRparam(9))])
-    disp(['IV0 = ',num2str(result_TRRparam(10))])
+    %disp(['bH = ',num2str(result_TRRparam(1))])
+    %disp(['bV = ',num2str(result_TRRparam(4))])
+    %disp(['1/aH = ',num2str(1/result_TRRparam(2))])
+    %disp(['1/yH = ',num2str(1/result_TRRparam(3))])
+    %disp(['1/aV = ',num2str(1/result_TRRparam(5))])
+    %disp(['1/dV = ',num2str(1/result_TRRparam(6))])
+    %disp(['EH0 = ',num2str(result_TRRparam(7))])
+    %disp(['IH0 = ',num2str(result_TRRparam(8))])
+    %disp(['EV0 = ',num2str(result_TRRparam(9))])
+    %disp(['IV0 = ',num2str(result_TRRparam(10))])
     
 toc
 % -----------------------------------------------------------
