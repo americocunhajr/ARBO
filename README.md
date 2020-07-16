@@ -10,8 +10,7 @@
 
 
 Further details about can be seen in:
-
-*E. Dantas, M. Tosin, A. Cunha Jr, Calibration of a SEIR–SEI epidemic model to describe the Zika virus outbreak in Brazil,  Applied Mathematics and Computation, vol. 338, pp. 249-259, 2018*
+- *E. Dantas, M. Tosin, A. Cunha Jr, Calibration of a SEIR–SEI epidemic model to describe the Zika virus outbreak in Brazil,  Applied Mathematics and Computation, vol. 338, pp. 249-259, 2018*
 https://doi.org/10.1016/j.amc.2018.06.024
 
 ## Authors:
@@ -22,8 +21,7 @@ https://doi.org/10.1016/j.amc.2018.06.024
 ## Citing ZikaVD:
 
 We kindly ask users to cite the following reference in any publications reporting work done with **ZikaVD**:
-
-*E. Dantas, M. Tosin, A. Cunha Jr, Calibration of a SEIR–SEI epidemic model to describe the Zika virus outbreak in Brazil,  Applied Mathematics and Computation, vol. 338, pp. 249-259, 2018*
+- *E. Dantas, M. Tosin, A. Cunha Jr, Calibration of a SEIR–SEI epidemic model to describe the Zika virus outbreak in Brazil,  Applied Mathematics and Computation, vol. 338, pp. 249-259, 2018*
 https://doi.org/10.1016/j.amc.2018.06.024
 
 
