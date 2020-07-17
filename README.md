@@ -1,7 +1,6 @@
 <img src="logo/ZikaVD.png" width="40%">
 
 **ZikaVD - Zika Virus Dynamics** is an easy to run Matlab code to simulate the nonlinear dynamics of the Zika virus. The implementation follows an educational style, to make its use very intuitive. This package includes the following modules:
-
 - main_SEIR_SEI.m - Defines parameters and IC for the forward problem; solves the IVP with ode45; plots the time series.
 - rhs_SEIR_SEI.m - System of diferential equations for the IVP.
 - TRR_main_SEIR_SEI.m - Sets up scenarios for the inverse problem and options for the TRR solver; plots time series.
