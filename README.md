@@ -22,7 +22,7 @@ This code was developed to simulate the nonlinear dynamics of a epidemic model t
 - *E. Dantas, M. Tosin, A. Cunha Jr, Calibration of a SEIR–SEI epidemic model to describe the Zika virus outbreak in Brazil,  Applied Mathematics and Computation, vol. 338, pp. 249-259, 2018*
 https://doi.org/10.1016/j.amc.2018.06.024
 
-The code also includes an uncertainty quantitication module, that uses a probabilistic model to deal with uncertainties in the model parameters. This framework and some results of stochastic simulations are reported in:
+The code also includes an uncertainty quantification module, that uses a probabilistic model to deal with the model parameters uncertainties. This framework and some results of the stochastic simulations are reported in:
 - *E. Dantas, M. Tosin, A. Cunha Jr, An uncertainty quantification framework for a Zika virus epidemic model, Journal of Computational Interdisciplinary Sciences, v. 10, pp. 91, 2019*
 http://dx.doi.org/10.6062/jcis.2019.10.02.0163
 
@@ -36,7 +36,7 @@ http://dx.doi.org/10.6062/jcis.2019.10.02.0163
 We kindly ask users to cite the following references in any publications reporting work done with **ZikaVD**:
 - *E. Dantas, M. Tosin, A. Cunha Jr, Calibration of a SEIR–SEI epidemic model to describe the Zika virus outbreak in Brazil,  Applied Mathematics and Computation, vol. 338, pp. 249-259, 2018*
 https://doi.org/10.1016/j.amc.2018.06.024
-- *E. Dantas, M. Tosin, A. Cunha Jr, An uncertainty quantification framework for a Zika virus epidemic model, Journal of Computational Interdisciplinary Sciences, v. 10, pp. 91, 2019*
+- *E. Dantas, M. Tosin, A. Cunha Jr, An uncertainty quantification framework for a Zika virus epidemic model, Journal of Computational Interdisciplinary Sciences, v. 10, pp. 91-96, 2019*
 http://dx.doi.org/10.6062/jcis.2019.10.02.0163
 
 ## License
