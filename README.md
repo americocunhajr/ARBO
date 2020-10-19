@@ -39,6 +39,28 @@ https://doi.org/10.1016/j.amc.2018.06.024
 - *E. Dantas, M. Tosin, A. Cunha Jr, An uncertainty quantification framework for a Zika virus epidemic model, Journal of Computational Interdisciplinary Sciences, v. 10, pp. 91-96, 2019*
 http://dx.doi.org/10.6062/jcis.2019.10.02.0163
 
+```
+@article{Dantas2018p249,
+  author = {E. Dantas and M. Tosin and A. {Cunha Jr}},
+  title = {Calibration of a {SEIR–SEI} epidemic model to describe the {Z}ika virus outbreak in {B}razil},
+  journal = {Applied Mathematics and Computation},
+  year = {2018},
+  volume = {338},
+  pages = {249-259},
+  doi = {https://doi.org/10.1016/j.amc.2018.06.024},
+}
+
+@article{Dantas2019p91,
+  author = {E. Dantas and M. Tosin and A. {Cunha Jr}},
+  title = {An uncertainty quantification framework for a {Z}ika virus epidemic model},
+  journal = {Journal of Computational Interdisciplinary Sciences},
+  year = {2019},
+  volume = {10},
+  pages = {91-96},
+  doi = {http://dx.doi.org/10.6062/jcis.2019.10.02.0163},
+}
+```
+
 ## License
 
 **ZikaVD** is released under the MIT license. See the LICENSE file for details. All new contributions must be made under the MIT license.
