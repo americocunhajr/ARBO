@@ -3,18 +3,17 @@
 **ZikaVD - Zika Virus Dynamics** is an easy-to-run Matlab code to simulate the nonlinear dynamics of the Zika virus. The implementation follows an educational style, to make its use very intuitive. 
 
 This package includes the following modules:
+- Data Sets
 - Initial Value Problem
 - Calibration Problem
 - Uncertainty Quantification
 
-The most important routines and functions of the code are described below:
-- main_SEIR_SEI.m - Defines parameters and IC for the forward problem; solves the IVP with ode45; plots the time series
+The main routines and functions of the code are described below:
+- main_SEIR_SEI_IVP_XX.m - Defines parameters and IC for the forward problem; solves the IVP with ode45; plots the time series
 - rhs_SEIR_SEI.m - System of diferential equations for the IVP
-- TRR_main_SEIR_SEI.m - Sets up scenarios for the inverse problem and options for the TRR solver; plots time series
-- TRR_rhs_SEIR_SEI.m - Adjusts the system of ODE according to the scenario chosen in the main file
-- TRR_FunctionOutput_SEIR_SEI.m - Sets up the objective function used in the main file for the inverse problem
-- main_SEIR_SEI_MonteCarlo.m - Compute the propagation of uncertainties via Monte Carlo method
-- post_SEIR_SEI_MonteCarlo.m - Post processing for Monte Carlo simulation
+- main_SEIR_SEI_TRR_XX.m - Sets up scenarios for the inverse problem and options for the TRR solver; plots time series
+- ObjFun_SEIR_SEI.m - Sets up the objective function used in the main file for the inverse problem
+- main_SEIR_SEI_MC_XX.m - Compute the propagation of uncertainties via Monte Carlo method
 
 ## Software History
 
@@ -27,8 +26,8 @@ The code also includes an uncertainty quantification module, that uses a probabi
 http://dx.doi.org/10.6062/jcis.2019.10.02.0163
 
 ## Authors
-- Eber Dantas
 - Michel Tosin
+- Eber Dantas
 - Americo Cunha
 
 ## Citing ZikaVD
