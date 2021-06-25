@@ -230,6 +230,8 @@ hold off
     leg = {'model';'data'};
     legend([fig1(1),fig1(2)],leg,'FontSize',15,'location','northeast');
     
+    saveas(figure(1),'fig_TRR_example1_C.png')
+    
 % plot NewCases (per week) of SEIR-SEI model
 figure(2)
 fig2(1) = stem(timeData,TRRNewCases);
@@ -250,5 +252,6 @@ hold off
     % legend
     leg = {'model';'data'};
     legend(fig2,leg,'FontSize',10,'location','northeast');
-
+    
+    saveas(figure(2),'fig_TRR_example1_NC.png')
 % -----------------------------------------------------------------   
