@@ -291,5 +291,5 @@ fig3 = scatter([1:length(NC)],NC);
     set(fig3,{'MarkerFaceColor','MarkerEdgeColor'},{'y','r'});
 
     % axis limits
-    xlim([1 length(NewCases)]);
+    xlim([1 length(NC)]);
 % -----------------------------------------------------------------
