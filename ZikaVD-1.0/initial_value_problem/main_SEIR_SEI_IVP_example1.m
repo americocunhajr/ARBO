@@ -250,6 +250,7 @@ hold off
     xlim([t0 t1]);
     ylim([0 3.2e5]);
 
+    saveas(fig1,'fig_IVP_example1_human_compart.png')
 
 % plot all humans compartments
 figure(2)
@@ -277,6 +278,7 @@ hold off
     xlim([t0 t1]);
     ylim([0 1e-3]);
 
+    saveas(fig2,'fig_IVP_example1_vector_compart.png')
 
 % plot NewCases (per week) of SEIR-SEI model
 figure(3)
@@ -293,4 +295,6 @@ fig3 = scatter([1:length(NC)],NC);
 
     % axis limits
     xlim([1 length(NC)]);
+    
+    saveas(fig3,'fig_IVP_example1_NC.png')
 % -----------------------------------------------------------------
