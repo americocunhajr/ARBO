@@ -366,7 +366,8 @@ fig1 = plot(1:Ns,MC_conv,'xb');
     % axis limits
     xlim([1 Ns]);
     ylim('auto');
-
+    
+    saveas(figure(1),'fig_UQ_example1_MCconv.png')
 
 % plot SH confidence band
 figure(2)
@@ -393,6 +394,7 @@ hold off
     xlim([day(1) day(end)]);
     ylim('auto');
     
+    saveas(figure(2),'fig_UQ_example1_SHband.png')
 
 % plot EH confidence band
 figure(3)
@@ -419,6 +421,7 @@ hold off
     xlim([day(1) day(end)]);
     ylim('auto');
     
+    saveas(figure(3),'fig_UQ_example1_EHband.png')
 
 % plot IH confidence band
 figure(4)
@@ -445,6 +448,7 @@ hold off
     xlim([day(1) day(end)]);
     ylim('auto');
     
+    saveas(figure(4),'fig_UQ_example1_IHband.png')
 
 % plot RH confidence band
 figure(5)
@@ -471,6 +475,7 @@ hold off
     xlim([day(1) day(end)]);
     ylim('auto');
     
+    saveas(figure(5),'fig_UQ_example1_RHband.png')
 
 % plot C confidence band
 figure(6)
@@ -498,6 +503,7 @@ hold off
     xlim([day(1) day(end)]);
     ylim('auto');
     
+    saveas(figure(6),'fig_UQ_example1_Cband.png')
     
 % plot NC confidence band
 figure(7)
@@ -523,5 +529,7 @@ hold off
     
     % axis limits
     xlim([day(1)/7 day(end)/7]);
-    ylim('auto');    
+    ylim('auto');  
+
+    saveas(figure(7),'fig_UQ_example1_NCband.png')
 % -----------------------------------------------------------------
