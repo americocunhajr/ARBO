@@ -25,6 +25,10 @@ The code also includes an uncertainty quantification module, that uses a probabi
 - *E. Dantas, M. Tosin, A. Cunha Jr, An uncertainty quantification framework for a Zika virus epidemic model, Journal of Computational Interdisciplinary Sciences, v. 10, pp. 91, 2019*
 http://dx.doi.org/10.6062/jcis.2019.10.02.0163
 
+## Reproducibility
+
+Simulations done with **ZikaVD** are fully reproducible, as can be seen on this <a href="https://codeocean.com/capsule/2674283/tree" target="_blank">CodeOcean capsule</a>
+
 ## Authors
 - Michel Tosin
 - Eber Dantas
