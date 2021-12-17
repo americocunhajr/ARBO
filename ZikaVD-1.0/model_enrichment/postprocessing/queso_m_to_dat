@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# Extracts the QUESO output chain .m data from the vector declaration and puts it in a .dat file.
+
+if ! [ $# -eq 0 ]; then
+  echo "This command finds the ip_raw_chain* files in the current directory and extracts"
+  echo "the data from the vector declaration of the .m file into a .dat file."
+  exit 1
+fi
+
+
+for i in *.m*; do sed -n '/]/,$d; /\[/,$p' $i | cut -f 2 -d[ > `basename $i .m`.dat; done
+
+exit 0
