@@ -6,9 +6,10 @@ This package includes the following modules:
 - Data Sets
 - Initial Value Problem
 - Calibration Problem
+- Model Enrichment
 - Uncertainty Quantification
 
-The main routines and functions of the code are described below:
+The Matlab main routines and functions of the code are described below:
 - main_SEIR_SEI_IVP_XX.m - Defines parameters and IC for the forward problem; solves the IVP with ode45; plots the time series
 - rhs_SEIR_SEI.m - System of diferential equations for the IVP
 - main_SEIR_SEI_TRR_XX.m - Sets up scenarios for the inverse problem and options for the TRR solver; plots time series
@@ -21,9 +22,15 @@ This code was developed to simulate the nonlinear dynamics of a epidemic model t
 - *E. Dantas, M. Tosin, A. Cunha Jr, Calibration of a SEIR–SEI epidemic model to describe the Zika virus outbreak in Brazil,  Applied Mathematics and Computation, vol. 338, pp. 249-259, 2018*
 https://doi.org/10.1016/j.amc.2018.06.024
 
+A third module includes a model enrichment approach, that uses discrepancy operator calibrated with data to compensate epidemic uncertainties in the epidemic model structure. The framework and some results are reported in:
+- *R. E. Morrison, A. Cunha Jr, Embedded model discrepancy: A case study of Zika modeling, Chaos, v. 30, pp. 051103, 2020*
+https://doi.org/10.1063/5.0005204
+
 The code also includes an uncertainty quantification module, that uses a probabilistic model to deal with the model parameters uncertainties. This framework and some results of the stochastic simulations are reported in:
 - *E. Dantas, M. Tosin, A. Cunha Jr, An uncertainty quantification framework for a Zika virus epidemic model, Journal of Computational Interdisciplinary Sciences, v. 10, pp. 91, 2019*
 http://dx.doi.org/10.6062/jcis.2019.10.02.0163
+
+
 
 ## Reproducibility
 
