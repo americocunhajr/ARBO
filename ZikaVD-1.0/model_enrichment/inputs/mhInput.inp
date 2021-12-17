@@ -1,0 +1,66 @@
+###############################################
+# UQ Environment
+###############################################
+env_numSubEnvironments   = 1 
+env_subDisplayFileName   = outputData/display_env
+env_subDisplayAllowAll   = 1
+env_displayVerbosity     = 0
+env_seed                 = -1 
+
+###############################################
+# Statistical inverse problem (ip)
+###############################################
+ip_computeSolution      = 1
+ip_dataOutputFileName   = outputData/sip
+
+###############################################
+# Information for Metropolis-Hastings algorithm
+###############################################
+ip_mh_dataOutputFileName   = outputData/sip
+
+ip_mh_rawChain_dataInputFileName    = . 
+ip_mh_rawChain_size                 = 10000
+ip_mh_rawChain_generateExtra        = 0
+ip_mh_rawChain_displayPeriod        = 100
+ip_mh_rawChain_measureRunTimes      = 1
+ip_mh_rawChain_dataOutputFileName   = outputData/sip_raw_chain
+
+ip_mh_displayCandidates             = 0
+ip_mh_putOutOfBoundsInChain         = 0 
+ip_mh_dr_maxNumExtraStages          = 1
+ip_mh_dr_listOfScalesForExtraStages = 5. #10. #20.
+ip_mh_am_initialNonAdaptInterval    = 2000
+ip_mh_am_adaptInterval              = 500
+ip_mh_am_eta                        = 1.92  	#(2.4^2)/d, d is the dimension of the problem
+ip_mh_am_epsilon                    = 1.e-5
+
+ip_mh_doLogitTransform              = 1
+
+ip_mh_filteredChain_generate             = 1
+ip_mh_filteredChain_discardedPortion     = 0.
+ip_mh_filteredChain_lag                  = 20
+ip_mh_filteredChain_dataOutputFileName   = outputData/sip_filtered_chain
+
+###############################################
+# Statistical forward problem (fp)
+###############################################
+fp_help                 = anything
+fp_computeSolution      = 1
+fp_computeCovariances   = 0
+fp_computeCorrelations  = 0
+fp_dataOutputFileName   = outputData/sfp
+
+###############################################
+# 'fp_': information for Monte Carlo algorithm
+###############################################
+fp_mc_help                 = anything
+fp_mc_dataOutputFileName   = outputData/sfp
+
+fp_mc_pseq_dataOutputFileName   = outputData/sfp_p_seq
+
+fp_mc_qseq_dataInputFileName    = . 
+fp_mc_qseq_size                 = 20000
+fp_mc_qseq_displayPeriod        = 20000
+fp_mc_qseq_measureRunTimes      = 1
+fp_mc_qseq_dataOutputFileName   = outputData/sfp_qoi_seq
+
