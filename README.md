@@ -33,6 +33,7 @@ Simulations done with **ZikaVD** are fully reproducible, as can be seen on this 
 - Michel Tosin
 - Eber Dantas
 - Americo Cunha
+- Rebecca E. Morrison
 
 ## Citing ZikaVD
 
@@ -41,6 +42,8 @@ We kindly ask users to cite the following references in any publications reporti
 https://doi.org/10.1016/j.amc.2018.06.024
 - *E. Dantas, M. Tosin, A. Cunha Jr, An uncertainty quantification framework for a Zika virus epidemic model, Journal of Computational Interdisciplinary Sciences, v. 10, pp. 91-96, 2019*
 http://dx.doi.org/10.6062/jcis.2019.10.02.0163
+- *R. E. Morrison, A. Cunha Jr, Embedded model discrepancy: A case study of Zika modeling, Chaos, v. 30, pp. 051103, 2020*
+https://doi.org/10.1063/5.0005204
 
 ```
 @article{Dantas2018p249,
@@ -61,6 +64,17 @@ http://dx.doi.org/10.6062/jcis.2019.10.02.0163
    volume  = {10},
    pages   = {91-96},
    doi     = {http://dx.doi.org/10.6062/jcis.2019.10.02.0163},
+}
+
+
+@article{Morrison2020p051103,
+   author  = {E. Dantas and M. Tosin and A. {Cunha~Jr}},
+   title   = {Embedded model discrepancy: {A} case study of {Z}ika modeling},
+   journal = {Chaos},
+   year    = {2020},
+   volume  = {30},
+   pages   = {051103},
+   doi     = {https://doi.org/10.1063/5.0005204},
 }
 ```
 
