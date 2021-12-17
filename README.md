@@ -16,6 +16,8 @@ The Matlab main routines and functions of the code are described below:
 - ObjFun_SEIR_SEI.m - Sets up the objective function used in the main file for the inverse problem
 - main_SEIR_SEI_MC_XX.m - Compute the propagation of uncertainties via Monte Carlo method
 
+A description C++ program can be seen inside model_enrichment directory, where you can find a README file with instructions.
+
 ## Software History
 
 This code was developed to simulate the nonlinear dynamics of a epidemic model to describe Zika Virus outbreak in Brazil. It also solves an inverse problem to calibrate the underlying dynamic model parameters using real data as reference. These results are reported in the following paper:
@@ -29,8 +31,6 @@ https://doi.org/10.1063/5.0005204
 The code also includes an uncertainty quantification module, that uses a probabilistic model to deal with the model parameters uncertainties. This framework and some results of the stochastic simulations are reported in:
 - *E. Dantas, M. Tosin, A. Cunha Jr, An uncertainty quantification framework for a Zika virus epidemic model, Journal of Computational Interdisciplinary Sciences, v. 10, pp. 91, 2019*
 http://dx.doi.org/10.6062/jcis.2019.10.02.0163
-
-
 
 ## Reproducibility
 
