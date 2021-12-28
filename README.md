@@ -1,4 +1,4 @@
-<img src="logo/ZikaVD.png" width="40%">
+<img src="logo/ARBO.png" width="40%">
 
 **ARBO - Arbovirus Modeling and Uncertainty Quantification Toolbox** is a package for simulation and analysis of arbovirus nonlinear dynamics. The implementation follows an educational style, to make its use very intuitive. 
 
@@ -42,7 +42,7 @@ Simulations done with **ARBO** are fully reproducible, as can be seen on this <a
 - Americo Cunha
 - Rebecca E. Morrison
 
-## Citing ZikaVD
+## Citing ARBO
 
 We kindly ask users to cite the following references in any publications reporting work done with **ARBO**:
 - *E. Dantas, M. Tosin, A. Cunha Jr, Calibration of a SEIR–SEI epidemic model to describe the Zika virus outbreak in Brazil,  Applied Mathematics and Computation, vol. 338, pp. 249-259, 2018*
@@ -90,5 +90,5 @@ https://doi.org/10.1063/5.0005204
 
 ## Funding
 
-<img src="logo/faperj.jpg" width="20%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%">
+<img src="logo/faperj.jpg" width="20%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%"> &nbsp; &nbsp; <img src="logo/stem2d_logo.png" width="10%">
 
