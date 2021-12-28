@@ -90,5 +90,5 @@ https://doi.org/10.1063/5.0005204
 
 ## Funding
 
-<img src="logo/faperj.jpg" width="20%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%"> &nbsp; &nbsp; <img src="logo/stem2d_logo.png" width="10%">
+<img src="logo/faperj.jpg" width="20%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%"> &nbsp; &nbsp; <img src="logo/stem2d_logo.png" width="30%">
 
