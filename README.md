@@ -1,6 +1,6 @@
 <img src="logo/ZikaVD.png" width="40%">
 
-**ZikaVD - Zika Virus Dynamics** is an easy-to-run Matlab code to simulate the nonlinear dynamics of the Zika virus. The implementation follows an educational style, to make its use very intuitive. 
+**ARBO - Arbovirus Modeling and Uncertainty Quantification Toolbox** is a package for simulation and analysis of arbovirus nonlinear dynamics. The implementation follows an educational style, to make its use very intuitive. 
 
 This package includes the following modules:
 - Data Sets
@@ -34,7 +34,7 @@ http://dx.doi.org/10.6062/jcis.2019.10.02.0163
 
 ## Reproducibility
 
-Simulations done with **ZikaVD** are fully reproducible, as can be seen on this <a href="https://codeocean.com/capsule/2674283/tree" target="_blank">CodeOcean capsule</a>
+Simulations done with **ARBO** are fully reproducible, as can be seen on this <a href="https://codeocean.com/capsule/2674283/tree" target="_blank">CodeOcean capsule</a>
 
 ## Authors
 - Michel Tosin
@@ -44,7 +44,7 @@ Simulations done with **ZikaVD** are fully reproducible, as can be seen on this 
 
 ## Citing ZikaVD
 
-We kindly ask users to cite the following references in any publications reporting work done with **ZikaVD**:
+We kindly ask users to cite the following references in any publications reporting work done with **ARBO**:
 - *E. Dantas, M. Tosin, A. Cunha Jr, Calibration of a SEIR–SEI epidemic model to describe the Zika virus outbreak in Brazil,  Applied Mathematics and Computation, vol. 338, pp. 249-259, 2018*
 https://doi.org/10.1016/j.amc.2018.06.024
 - *E. Dantas, M. Tosin, A. Cunha Jr, An uncertainty quantification framework for a Zika virus epidemic model, Journal of Computational Interdisciplinary Sciences, v. 10, pp. 91-96, 2019*
