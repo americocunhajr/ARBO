@@ -86,7 +86,7 @@ https://doi.org/10.1063/5.0005204
 
 ## License
 
-**ZikaVD** is released under the MIT license. See the LICENSE file for details. All new contributions must be made under the MIT license.
+**ARBO** is released under the MIT license. See the LICENSE file for details. All new contributions must be made under the MIT license.
 
 ## Funding
 
