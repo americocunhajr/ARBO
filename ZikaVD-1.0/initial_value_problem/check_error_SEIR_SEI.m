@@ -1,5 +1,5 @@
 % -----------------------------------------------------------------
-% ZikaVD - Zika Virus Dynamics
+% ARBO - Arbovirus Modeling and Uncertainty Quantification Toolbox
 % -----------------------------------------------------------------
 % Initial value problem: check_error_SEIR_SEI.m
 %
@@ -31,11 +31,14 @@ close all
 % -----------------------------------------------------------------
 disp('                                                            ')
 disp('============================================================')
-disp('   ZikaVD - Zika Virus Dynamics                             ')
-disp('   by Eber Dantas, Michel Tosin and Americo Cunha Jr        ')
+disp('             ARBO - Arbovirus Modeling and                  ')
+disp('          Uncertainty Quantification Toolbox                ')
 disp('                                                            ')
-disp('   This is an easy-to-run Matlab code to simulate           ')
-disp('   the nonlinear dynamics of the Zika virus.                ')
+disp('            by Eber Dantas, Michel Tosin,                   ')
+disp('       Americo Cunha Jr and Rebecca E. Morrison             ')
+disp('                                                            ')
+disp('     This is a package for simulation and analysis          ')
+disp('            of arbovirus nonlinear dynamics.                ')
 disp('============================================================')
 disp('                                                            ')
 disp(' -----------------------------------------------------------')
