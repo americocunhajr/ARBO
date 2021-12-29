@@ -1,3 +1,7 @@
+/*-------------------------------------------------------------------
+ * ARBO - Arbovirus Modeling and Uncertainty Quantification Toolbox
+ *-----------------------------------------------------------------*/
+
 #ifndef __DYNAMICS_INFO_H__
 #define __DYNAMICS_INFO_H__
 
