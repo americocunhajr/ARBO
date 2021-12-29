@@ -1,4 +1,8 @@
- /*------------------------------------------------------------------
+/*-------------------------------------------------------------------
+ * ARBO - Arbovirus Modeling and Uncertainty Quantification Toolbox
+ *-----------------------------------------------------------------*/
+
+/*-------------------------------------------------------------------
  * Brief description of this file: 
  * 
  * This is the inverse problem to calibrate the model discrepancy parameters
