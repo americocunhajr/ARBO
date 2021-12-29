@@ -1,5 +1,7 @@
 
 % -----------------------------------------------------------------
+% ARBO - Arbovirus Modeling and Uncertainty Quantification Toolbox
+% -----------------------------------------------------------------
 %  randvar_ksd.m
 %
 %  This functions computes the kernel smooth density estimation
