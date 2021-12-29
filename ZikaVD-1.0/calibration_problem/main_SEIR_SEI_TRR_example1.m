@@ -1,5 +1,5 @@
 % -----------------------------------------------------------------
-% ZikaVD - Zika Virus Dynamics
+% ARBO - Arbovirus Modeling and Uncertainty Quantification Toolbox
 % -----------------------------------------------------------------
 % Calibration: TRR_main_SEIR_SEI_example1.m
 %
