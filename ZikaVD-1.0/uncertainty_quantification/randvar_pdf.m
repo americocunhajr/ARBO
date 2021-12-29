@@ -1,5 +1,7 @@
 
 % -----------------------------------------------------------------
+% ARBO - Arbovirus Modeling and Uncertainty Quantification Toolbox
+% -----------------------------------------------------------------
 %  randvar_pdf.m
 %
 %  This functions computes the probability density funtion
