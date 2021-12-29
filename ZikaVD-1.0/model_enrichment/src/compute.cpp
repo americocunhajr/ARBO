@@ -1,4 +1,8 @@
 /*-------------------------------------------------------------------
+ * ARBO - Arbovirus Modeling and Uncertainty Quantification Toolbox
+ *-----------------------------------------------------------------*/
+
+/*-------------------------------------------------------------------
  * This file is divided in two parts:
  * - the first one handles the statistical inverse problem (SIP) for estimating
  *   the discrepancy parameters '\delta_i', i=1,...,14
