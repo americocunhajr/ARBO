@@ -1,3 +1,6 @@
+% -----------------------------------------------------------------
+% ARBO - Arbovirus Modeling and Uncertainty Quantification Toolbox
+% -----------------------------------------------------------------
 
 function F = TruncExpParam(lambda,param)
 
