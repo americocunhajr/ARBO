@@ -1,5 +1,5 @@
 % -----------------------------------------------------------------
-% ZikaVD - Zika Virus Dynamics
+% ARBO - Arbovirus Modeling and Uncertainty Quantification Toolbox
 % -----------------------------------------------------------------
 % Initial value problem: rhs_SEIR_SEI.m
 %
