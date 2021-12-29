@@ -1,5 +1,7 @@
 
 % -----------------------------------------------------------------
+% ARBO - Arbovirus Modeling and Uncertainty Quantification Toolbox
+% -----------------------------------------------------------------
 %  randvar_mc_conv.m
 %
 %  This function computes the metric used to evaluate the 
