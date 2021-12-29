@@ -1,5 +1,7 @@
 
 % -----------------------------------------------------------------
+% ARBO - Arbovirus Modeling and Uncertainty Quantification Toolbox
+% -----------------------------------------------------------------
 %  randvar_normalize.m
 %
 %  This function normalizes the numerical series of a
