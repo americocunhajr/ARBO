@@ -1,6 +1,6 @@
 <img src="logo/ARBO.png" width="40%">
 
-**ARBO - Arbovirus Modeling and Uncertainty Quantification Toolbox** is a package for simulation and analysis of arbovirus nonlinear dynamics. The implementation follows an educational style, to make its use very intuitive. 
+**ARBO: Arbovirus Modeling and Uncertainty Quantification Toolbox** is a package for simulation and analysis of arbovirus nonlinear dynamics. The implementation follows an educational style, to make its use very intuitive. 
 
 This package includes the following modules:
 - Data Sets
