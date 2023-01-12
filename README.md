@@ -74,7 +74,7 @@ https://doi.org/10.1063/5.0005204
 }
 
 @article{Morrison2020p051103,
-   author  = {E. Dantas and M. Tosin and A. {Cunha~Jr}},
+   author  = {R. E. Morrison and A. {Cunha~Jr}},
    title   = {Embedded model discrepancy: {A} case study of {Z}ika modeling},
    journal = {Chaos},
    year    = {2020},
