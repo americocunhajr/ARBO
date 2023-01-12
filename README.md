@@ -62,7 +62,9 @@ https://doi.org/10.1063/5.0005204
    pages   = {249-259},
    doi     = {https://doi.org/10.1016/j.amc.2018.06.024},
 }
+```
 
+```
 @article{Dantas2019p91,
    author  = {E. Dantas and M. Tosin and A. {Cunha~Jr}},
    title   = {An uncertainty quantification framework for a {Z}ika virus epidemic model},
@@ -72,7 +74,9 @@ https://doi.org/10.1063/5.0005204
    pages   = {91-96},
    doi     = {http://dx.doi.org/10.6062/jcis.2019.10.02.0163},
 }
+```
 
+```
 @article{Morrison2020p051103,
    author  = {R. E. Morrison and A. {Cunha~Jr}},
    title   = {Embedded model discrepancy: {A} case study of {Z}ika modeling},
