@@ -86,6 +86,8 @@ We kindly ask users to cite the following references in any publications reporti
 
 **ARBO** is released under the MIT license. See the LICENSE file for details. All new contributions must be made under the MIT license.
 
+<img src="logo/mit_license_red.png" width="10%"> 
+
 ## Institutional support
 
 <img src="logo/logo_uerj_color.jpeg" width="10%"> &nbsp; &nbsp; <img src="logo/logo_uc-boulder_color.png" width="25%">
