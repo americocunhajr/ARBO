@@ -90,7 +90,7 @@ We kindly ask users to cite the following references in any publications reporti
 
 ## Institutional support
 
-<img src="logo/logo_uerj_color.jpeg" width="10%"> &nbsp; &nbsp; <img src="logo/logo_uc-boulder_color.png" width="25%">
+<img src="logo/logo_uerj_color.jpeg" width="10%"> &nbsp; &nbsp; <img src="logo/logo_uc-boulder_color.png" width="35%">
 
 ## Funding
 
