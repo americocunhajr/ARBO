@@ -31,7 +31,7 @@ The code also includes an uncertainty quantification module, that uses a probabi
 
 ## Reproducibility
 
-Simulations done with **ARBO** are fully reproducible, as can be seen on this <a href="https://codeocean.com/capsule/2674283/tree" target="_blank">CodeOcean capsule</a>
+Simulations done with **ARBO** are fully reproducible, as can be seen on this <a href="https://codeocean.com/capsule/8169007/tree/v4" target="_blank">CodeOcean capsule</a>
 
 ## Authors
 - Michel Tosin
