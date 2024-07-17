@@ -33,11 +33,11 @@ The code also includes an uncertainty quantification module, that uses a probabi
 To get started with **ARBO**, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/americocunhajr/HarvesterOpt.git
+   git clone https://github.com/americocunhajr/ARBO.git
    ```
 2. Navigate to the code directory:
    ```bash
-   cd HarvesterOpt/HarvesterOpt-1.0
+   cd ARBO/ARBO-1.0
    ```
 
 ### Reproducibility
