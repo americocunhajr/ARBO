@@ -27,11 +27,11 @@ The code also includes an uncertainty quantification module, that uses a probabi
 - **E. Dantas, M. Tosin, A. Cunha Jr**, *An uncertainty quantification framework for a Zika virus epidemic model*, Journal of Computational Interdisciplinary Sciences, v. 10, pp. 91-96, 2019 <a href="http://dx.doi.org/10.6062/jcis.2019.10.02.0163" target="_blank">DOI</a>
 
 ### Features
-- **Data Sets:** Preprocessed data for simulations
-- **Initial Value Problem:** Solves forward problems using ODE solvers
-- **Calibration Problem:** Calibrates model parameters using real data
-- **Model Enrichment:** Enhances models with discrepancy operators
-- **Uncertainty Quantification:** Propagates uncertainties via Monte Carlo method
+- Data Sets: Preprocessed data for simulations
+- Initial Value Problem: Solves forward problems using ODE solvers
+- Model Calibration: Calibrates model parameters using real data
+- Model Enrichment: Enhances models with discrepancy operators
+- Uncertainty Quantification: Propagates uncertainties via Monte Carlo method
 
 ### Usage
 To get started with **ARBO**, follow these steps:
