@@ -18,15 +18,15 @@
 **ARBO** was developed to simulate the nonlinear dynamics of an epidemic model to describe the Zika Virus outbreak in Brazil. It includes modules for solving initial value problems, calibration problems, model enrichment, and uncertainty quantification.
 
 This code was developed to simulate the nonlinear dynamics of a epidemic model to describe Zika Virus outbreak in Brazil. It also solves an inverse problem to calibrate the underlying dynamic model parameters using real data as reference. These results are reported in the following paper:
-- *E. Dantas, M. Tosin, A. Cunha Jr, Calibration of a SEIR–SEI epidemic model to describe the Zika virus outbreak in Brazil,  Applied Mathematics and Computation, vol. 338, pp. 249-259, 2018 https://doi.org/10.1016/j.amc.2018.06.024*
+- **E. Dantas, M. Tosin, A. Cunha Jr**, *Calibration of a SEIR–SEI epidemic model to describe the Zika virus outbreak in Brazil*, Applied Mathematics and Computation, vol. 338, pp. 249-259, 2018 <a href="https://doi.org/10.1016/j.amc.2018.06.024" target="_blank">DOI</a>
 
 A third module includes a model enrichment approach, that uses discrepancy operator calibrated with data to compensate epidemic uncertainties in the epidemic model structure. The framework and some results are reported in:
-- *R. E. Morrison, A. Cunha Jr, Embedded model discrepancy: A case study of Zika modeling, Chaos, v. 30, pp. 051103, 2020 https://doi.org/10.1063/5.0005204*
+- **R. E. Morrison, A. Cunha Jr**, *Embedded model discrepancy: A case study of Zika modeling*, Chaos, v. 30, pp. 051103, 2020 <a href="https://doi.org/10.1063/5.0005204" target="_blank">DOI</a>
 
 The code also includes an uncertainty quantification module, that uses a probabilistic model to deal with the model parameters uncertainties. This framework and some results of the stochastic simulations are reported in:
-- *E. Dantas, M. Tosin, A. Cunha Jr, An uncertainty quantification framework for a Zika virus epidemic model, Journal of Computational Interdisciplinary Sciences, v. 10, pp. 91-96, 2019 http://dx.doi.org/10.6062/jcis.2019.10.02.0163*
+- **E. Dantas, M. Tosin, A. Cunha Jr**, *An uncertainty quantification framework for a Zika virus epidemic model*, Journal of Computational Interdisciplinary Sciences, v. 10, pp. 91-96, 2019 <a href="http://dx.doi.org/10.6062/jcis.2019.10.02.0163" target="_blank">DOI</a>
 
-## Features
+### Features
 - **Data Sets:** Preprocessed data for simulations
 - **Initial Value Problem:** Solves forward problems using ODE solvers
 - **Calibration Problem:** Calibrates model parameters using real data
