@@ -1,4 +1,4 @@
-<img src="logo/ARBO.png" width="40%">
+## Arbovirus Modeling and Uncertainty Quantification Toolbox
 
 **ARBO: Arbovirus Modeling and Uncertainty Quantification Toolbox** is a package for simulation and analysis of arbovirus nonlinear dynamics. The implementation follows an educational style, to make its use very intuitive. 
 
@@ -18,7 +18,7 @@ The Matlab main routines and functions of the code are described below:
 
 A description C++ program can be seen inside model_enrichment directory, where you can find a README file with instructions.
 
-## Software History
+### Software History
 
 This code was developed to simulate the nonlinear dynamics of a epidemic model to describe Zika Virus outbreak in Brazil. It also solves an inverse problem to calibrate the underlying dynamic model parameters using real data as reference. These results are reported in the following paper:
 - *E. Dantas, M. Tosin, A. Cunha Jr, Calibration of a SEIR–SEI epidemic model to describe the Zika virus outbreak in Brazil,  Applied Mathematics and Computation, vol. 338, pp. 249-259, 2018 https://doi.org/10.1016/j.amc.2018.06.024*
@@ -29,19 +29,28 @@ A third module includes a model enrichment approach, that uses discrepancy opera
 The code also includes an uncertainty quantification module, that uses a probabilistic model to deal with the model parameters uncertainties. This framework and some results of the stochastic simulations are reported in:
 - *E. Dantas, M. Tosin, A. Cunha Jr, An uncertainty quantification framework for a Zika virus epidemic model, Journal of Computational Interdisciplinary Sciences, v. 10, pp. 91-96, 2019 http://dx.doi.org/10.6062/jcis.2019.10.02.0163*
 
-## Reproducibility
+### Usage
+To get started with **ARBO**, follow these steps:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/americocunhajr/HarvesterOpt.git
+   ```
+2. Navigate to the code directory:
+   ```bash
+   cd HarvesterOpt/HarvesterOpt-1.0
+   ```
 
+### Reproducibility
 Simulations done with **ARBO** are fully reproducible, as can be seen on this <a href="https://codeocean.com/capsule/8169007/tree/v4" target="_blank">CodeOcean capsule</a>
 
-## Authors
+### Authors
 - Michel Tosin
 - Eber Dantas
 - Americo Cunha
 - Rebecca E. Morrison
 
-## Citing ARBO
-
-We kindly ask users to cite the following references in any publications reporting work done with **ARBO**:
+### Citing ARBO
+If you use **ARBO** in your research, please cite the following publications:
 - *E. Dantas, M. Tosin, A. Cunha Jr, Calibration of a SEIR–SEI epidemic model to describe the Zika virus outbreak in Brazil,  Applied Mathematics and Computation, vol. 338, pp. 249-259, 2018 https://doi.org/10.1016/j.amc.2018.06.024*
 - *E. Dantas, M. Tosin, A. Cunha Jr, An uncertainty quantification framework for a Zika virus epidemic model, Journal of Computational Interdisciplinary Sciences, v. 10, pp. 91-96, 2019 http://dx.doi.org/10.6062/jcis.2019.10.02.0163*
 - *R. E. Morrison, A. Cunha Jr, Embedded model discrepancy: A case study of Zika modeling, Chaos, v. 30, pp. 051103, 2020 https://doi.org/10.1063/5.0005204*
@@ -82,17 +91,16 @@ We kindly ask users to cite the following references in any publications reporti
 }
 ```
 
-## License
+### License
 
 **ARBO** is released under the MIT license. See the LICENSE file for details. All new contributions must be made under the MIT license.
 
 <img src="logo/mit_license_red.png" width="10%"> 
 
-## Institutional support
+### Institutional support
 
 <img src="logo/logo_uerj_color.jpeg" width="10%"> &nbsp; &nbsp; <img src="logo/logo_uc-boulder_color.png" width="35%">
 
-## Funding
+### Funding
 
 <img src="logo/faperj.jpg" width="20%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%"> &nbsp; &nbsp; <img src="logo/stem2d_logo.png" width="30%">
-
