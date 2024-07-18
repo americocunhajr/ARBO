@@ -79,7 +79,7 @@ If you use **ARBO** in your research, please cite the following publications:
 ```
 @article{Tosin2022ARBO,
    author  = {M. Tosin and E. Dantas and A. {Cunha~Jr} and R. E. Morrison},
-   title   = {{ARBO}: {A}rbovirus modeling and uncertainty quantification toolbox},
+   title   = "{ARBO: Arbovirus modeling and uncertainty quantification toolbox}",
    journal = {Software Impacts},
    year    = {2022},
    volume  = {12},
