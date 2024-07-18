@@ -2,6 +2,10 @@
 
 **ARBO: Arbovirus Modeling and Uncertainty Quantification Toolbox** is a comprehensive Matlab/C++ package designed for the simulation and analysis of arbovirus nonlinear dynamics. Developed with an educational approach, **ARBO** is intuitive and user-friendly, making it accessible for researchers and students alike.
 
+<p align="center">
+<img src="logo/ARBO-Modules.png" width="60%">
+</p>
+
 ### Table of Contents
 - [Overview](#overview)
 - [Features](#features)
